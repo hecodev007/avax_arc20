@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@wagmi/core": "^1.4.12",
+    "axios": "^1.6.3",
+    "eth-sig-util": "^3.0.1",
+    "js-md5": "^0.8.3",
+    "node-fetch": "^3.3.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "web3": "^4.3.0"
+  }
+}
